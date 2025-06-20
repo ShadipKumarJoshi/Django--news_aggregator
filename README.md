@@ -22,6 +22,6 @@ py manage.py runserver
 
 ## Environment Variables
 
-This project uses an [OpenWeatherMap](https://newsapi.org/) API key. To run the project, create a `.env` file in the root directory and add the following:
+This project uses an [NewsAPI](https://newsapi.org/) API key. To run the project, create a `.env` file in the root directory and add the following:
 
 NEWS_API_KEY="your_actual_api_key_here"
